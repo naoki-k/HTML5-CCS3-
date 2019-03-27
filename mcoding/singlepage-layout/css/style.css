@@ -286,3 +286,10 @@ body {
 .contact-from textarea:focus {
   box-shadow: 0 0 8px rgba(225, 225, 225, 0.5) inset;
 }
+
+/*-- footer --*/
+
+.footer {
+  padding: 12px 0;
+  font-size: 1.3rem;
+}
